@@ -4,7 +4,7 @@ A static site, no build step. Upload the contents of this folder as they are.
 
 ## Files
 - `index.html` — the landing page (styles and scripts inline)
-- `assets/img/` — photos
+- `*.jpg` — photos (kept next to index.html, no subfolders)
 - `favicon.svg`, `favicon-32.png`, `apple-touch-icon.png`, `icon-192.png`, `icon-512.png`, `site.webmanifest` — icons
 - `404.html` — "page not found" page
 
